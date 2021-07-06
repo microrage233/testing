@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/microrage233/testing/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/microrage233/testing/static/js/main.a6dfc33f.chunk.js",
+    "main.js.map": "/microrage233/testing/static/js/main.a6dfc33f.chunk.js.map",
+    "runtime-main.js": "/microrage233/testing/static/js/runtime-main.4d9ec609.js",
+    "runtime-main.js.map": "/microrage233/testing/static/js/runtime-main.4d9ec609.js.map",
+    "static/js/2.1a3baec5.chunk.js": "/microrage233/testing/static/js/2.1a3baec5.chunk.js",
+    "static/js/2.1a3baec5.chunk.js.map": "/microrage233/testing/static/js/2.1a3baec5.chunk.js.map",
+    "static/js/3.33954025.chunk.js": "/microrage233/testing/static/js/3.33954025.chunk.js",
+    "static/js/3.33954025.chunk.js.map": "/microrage233/testing/static/js/3.33954025.chunk.js.map",
+    "index.html": "/microrage233/testing/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/microrage233/testing/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1a3baec5.chunk.js.LICENSE.txt": "/microrage233/testing/static/js/2.1a3baec5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/microrage233/testing/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d9ec609.js",
+    "static/js/2.1a3baec5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a6dfc33f.chunk.js"
+  ]
+}
